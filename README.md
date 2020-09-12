@@ -1,6 +1,7 @@
 # Mod-2-Project
----
+
 #### Amir Edris, Ben Inoyatov
+---
 
 ## Introduction
 ---
