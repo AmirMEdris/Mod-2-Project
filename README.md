@@ -30,7 +30,7 @@ What gives a student the most chance of success in school? We started this proje
 ![g3_medufedu](https://user-images.githubusercontent.com/44031998/93031600-220b0c80-f5fa-11ea-8682-4aadcfb3051d.png)
 - Conclusion: We failed to reject that education level of your parents had affect on your overall grade. 
 
-![averge_g3_failures](https://user-images.githubusercontent.com/44031998/93032475-c5aaeb80-f5ff-11ea-81ae-9093ef83a852.png)
+![failures](https://user-images.githubusercontent.com/44031998/93032541-29351900-f600-11ea-864f-3c3f20d7acd6.png)
 - Conclusion: Having 1 or more failures led to a signifcant decrease in your final scores. (t_stat of 33, p-val of 1.1e-8)
 
 ![g3_higheredu](https://user-images.githubusercontent.com/44031998/93031665-a9f11680-f5fa-11ea-9265-6c2e959ec00f.png)
