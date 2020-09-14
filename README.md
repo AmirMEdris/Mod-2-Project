@@ -11,7 +11,8 @@ Most visualizations were done using ``` seaborn ``` and ``` matplotlib ```. For 
 For more detailed visualizations and exploratory analysis refer to these notebooks:
 ```eda_visualization_testing
    data_cleaning
-   regression```
+   regression
+```
 
 ### Our Question 
 ---
