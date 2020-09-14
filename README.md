@@ -9,7 +9,8 @@ We used a dataset from UCI Machine Learning Repository ( [link](https://archive.
 Most visualizations were done using ``` seaborn ``` and ``` matplotlib ```. For statistical tests, we used ``` scipy.stats ``` and for regression we used ``` sklearn ```, ``` pandas ``` and ``` numpy ```.
 
 For more detailed visualizations and exploratory analysis refer to these notebooks:
-```eda_visualization_testing
+```
+   eda_visualization_testing
    data_cleaning
    regression
 ```
