@@ -40,3 +40,5 @@ What gives a student the most chance of success in school? We started this proje
 ---
 - Due to the nature of this data, we recommend a classification approach in addition to regression on the target variable. We are excited to explore Module 3 and 4 in the Flatiron Data Science Immersive Bootcamp Course to bridge the gaps. 
 ## Links 
+- Google Slides Presentation: https://docs.google.com/presentation/d/1PT80q3GVLONjxfVpxwTUoQ5FUPouyFBluYeMn5cUJhg/edit?usp=sharing
+- UCI Data: https://archive.ics.uci.edu/ml/datasets/Student+Performance#
